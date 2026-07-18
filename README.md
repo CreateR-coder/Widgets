@@ -1,1 +1,3 @@
-# Widgets
+## Groq
+Get a groq api key and put it in .env in this format:
+GROQ_API_KEY=gsk_xyz123...
